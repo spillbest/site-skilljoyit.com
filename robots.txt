@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skilljoyit.com/sitemap.xml
